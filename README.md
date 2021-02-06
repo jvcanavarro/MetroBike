@@ -5,7 +5,7 @@ Dataset download and information are available [here](https://bikeshare.metro.ne
 Authors: [Felipe Melo](https://github.com/FelipOliveira), [João Canavarro](https://github.com/jvcanavarro) and [Vitor Cantão](https://github.com/VitorCantao).
 
 ***
-## Metro Bike Share [Dataset](https://bikeshare.metro.net/about/data/)
+## Metro Bike Share Company
 
 
 
