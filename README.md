@@ -1,7 +1,7 @@
 # Discrete Simulation Final Project
 
 
-Dataset download and information are available [here](https://bikeshare.metro.net/about/data/).
+Dataset download and information are available [here](https://bikeshare.metro.net/about/data/). \
 Authors: [Felipe Melo](https://github.com/FelipOliveira), [João Canavarro](https://github.com/jvcanavarro) and [Vitor Cantão](https://github.com/VitorCantao).
 
 ***
